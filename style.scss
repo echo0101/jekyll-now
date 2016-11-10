@@ -16,11 +16,12 @@
 /**************/
 
 html {
+  font-family: 'Raleway', san-serif !important;
   font-size: 100%;
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -33,7 +34,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', san-serif;
   color: $darkerGray;
   font-weight: bold;
 
