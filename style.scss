@@ -9,6 +9,8 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -31,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Raleway', san-serif;
   color: $darkerGray;
   font-weight: bold;
 
