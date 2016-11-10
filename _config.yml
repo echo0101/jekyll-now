@@ -1,6 +1,6 @@
 ---
 title: Pjblog
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
